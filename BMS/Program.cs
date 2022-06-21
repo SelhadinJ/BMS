@@ -1,14 +1,3 @@
-﻿/**  ********************************************************
-     *                St.Mary's University                  *
-     *      Rapid Application Development Assignment        *
-     *          Boutique Management System (Boutique_Management_System)            *
-     *      Using MVC (Model View Controller) Pattern       *
-     *   **********************************************     * 
-     *   Developed By 3rd Year Computer Science Students    *
-     *        Mohammed Abduselam  &  Selhadin Jemal         *
-     *         (RCD/1333/2012)      (RCD/2101/2012)         *
-     ********************************************************
-*/
 using System;
 using System.Windows.Forms;
 
